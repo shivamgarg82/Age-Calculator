@@ -30,6 +30,7 @@ git clone https://github.com/shivamgarg82/Age-Calculator.git
 cd Age-Calculator
 
 🏗️ Project Structure
+
 Age-Calculator/
 ├── index.html        # Main application file
 ├── style.css         # Stylesheet
